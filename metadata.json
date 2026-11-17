@@ -1,0 +1,6 @@
+{
+  "name": "Logo Studio",
+  "description": "Professional photo watermark and batch logo overlay studio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
